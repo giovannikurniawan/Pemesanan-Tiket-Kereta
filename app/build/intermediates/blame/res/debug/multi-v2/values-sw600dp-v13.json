@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Pemesanan-Travel\\TravelApps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "D:\\Pemesanan-Tiket-Kereta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "D:\\gradle-6.8.3\\caches\\transforms-3\\a1da1eb3f3391aaf74ae97473d58271c\\transformed\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

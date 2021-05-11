@@ -63,7 +63,4 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
-    public void bookHotel(View v) {
-        Toast.makeText(getApplicationContext(), "Mohon maaf, sistem sedang dalam pengembangan.", Toast.LENGTH_LONG).show();
-    }
 }
