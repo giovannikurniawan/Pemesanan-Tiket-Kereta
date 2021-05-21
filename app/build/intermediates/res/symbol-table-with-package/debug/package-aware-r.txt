@@ -1,4 +1,4 @@
-com.azhar.travel
+com.giovanni.travel
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1031,7 +1031,6 @@ drawable avd_show_password
 drawable bg_home_curve
 drawable bg_home_wave
 drawable bg_menu
-drawable book_hotel
 drawable book_kereta
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation

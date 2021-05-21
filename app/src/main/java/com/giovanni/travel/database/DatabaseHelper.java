@@ -45,7 +45,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 COL_HARGA_DEWASA + " TEXT, " + COL_HARGA_ANAK + " TEXT, " + COL_HARGA_TOTAL +
                 " TEXT, FOREIGN KEY(" + COL_USERNAME + ") REFERENCES " + TABLE_USER
                 + ", FOREIGN KEY(" + COL_ID_BOOK + ") REFERENCES " + TABLE_BOOK + ")");
-        db.execSQL("insert into " + TABLE_USER + " values ('azhar@gmail.com','azhar','Azhar Rivaldi');");
+        db.execSQL("insert into " + TABLE_USER + " values ('giovanni@gmail.com','giovanni','giovanni kurniawan');");
     }
 
     @Override

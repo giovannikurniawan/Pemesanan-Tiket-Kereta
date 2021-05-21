@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Pemesanan-Tiket-Kereta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\Pemesanan-Tiket-Kereta-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\gradle-6.8.3\\caches\\transforms-3\\a1da1eb3f3391aaf74ae97473d58271c\\transformed\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Local Admin\\.gradle\\caches\\transforms-2\\files-2.1\\a0fae3d9013be8f69fa615280ce21ea3\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\gradle-6.8.3\\caches\\transforms-3\\9e337ae1f0e8ef3e3c78cd01c4a08090\\transformed\\appcompat-1.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Local Admin\\.gradle\\caches\\transforms-2\\files-2.1\\db50d9c729baed83bc3da6fe28ac0e91\\appcompat-1.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

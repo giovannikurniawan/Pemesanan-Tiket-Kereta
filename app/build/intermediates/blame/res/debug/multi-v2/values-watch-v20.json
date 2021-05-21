@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Pemesanan-Tiket-Kereta\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\Pemesanan-Tiket-Kereta-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "D:\\gradle-6.8.3\\caches\\transforms-3\\9e337ae1f0e8ef3e3c78cd01c4a08090\\transformed\\appcompat-1.1.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\Local Admin\\.gradle\\caches\\transforms-2\\files-2.1\\db50d9c729baed83bc3da6fe28ac0e91\\appcompat-1.1.0\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
